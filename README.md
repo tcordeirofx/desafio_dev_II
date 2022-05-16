@@ -67,6 +67,7 @@ A gravação desses dados deve ser feita de forma que não se crie inconsistênc
 - Em caso de dúvidas sobre o desafio, entre em contato 
 
 ### Tecnologias que usamos:
-- Node.js ou Java
-- MySQL ou MongoDB
-- RabbitMQ
+- .NET Core
+- MySQL
+- Padrão Mediator
+- Hangfire
